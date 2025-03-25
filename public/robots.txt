@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://myjsonformatter.netlify.app/sitemap.xml
+Sitemap: https://jsonformatter.ppmani.com/
