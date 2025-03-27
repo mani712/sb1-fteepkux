@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://jsonformatter.ppmani.com/
+Sitemap: https://jsonformatter.ppmani.com/sitemap.xml
